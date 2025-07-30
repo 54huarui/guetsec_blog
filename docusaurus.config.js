@@ -104,10 +104,6 @@ const config = {
                   label: '网络与信息技术中心',
                   href: 'https://www.guet.edu.cn/xjzx/',
                 },
-                {
-                  label: '三院信息安全维护小组',
-                  href: 'https://www.cnblogs.com/xinanxiaozu/',
-                },
               ],
             },
           ],

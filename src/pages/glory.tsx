@@ -21,9 +21,31 @@ export default function Hello() {
                         <td>赛事</td>
                         <td>名次</td>
                     </tr>
+                    
+                    <tr>
+                        <td rowspan="5">2025年</td>
+                        <td>第22届全国大学生信息安全与对抗技术竞赛</td>
+                        <td>一等奖</td>
+                    </tr>
+                    <tr>
+                        <td>UCSCCTF 2025高校网络安全联合选拔赛-团队赛</td>
+                        <td>二等奖</td>
+                    </tr>
+                    <tr>
+                        <td>第四届SQCTF</td>
+                        <td>一等奖</td>
+                    </tr>
+                    <tr>
+                        <td>2025年米好信安CTF线上挑战赛夏季赛</td>
+                        <td>二等奖</td>
+                    </tr>
+                    <tr>
+                        <td>2025年计算机与信息安全学院工控安全技能竞赛</td>
+                        <td>一等奖、三等奖</td>
+                    </tr>
 
                     <tr>
-                        <td rowspan="6">2024年</td>
+                        <td rowspan="9">2024年</td>
                     </tr>
                     <tr>
                         <td>第21届全国大学生信息安全与对抗技术竞赛</td>
@@ -156,6 +178,10 @@ export default function Hello() {
                         <td>首届《方班演武堂》课程活动积分排行榜（高校榜）</td>
                         <td>6th</td>
                     </tr>
+
+
+
+                    
 
                     <tr>
                         <td rowspan="5">2020年</td>

@@ -201,7 +201,7 @@ const members: Member[] = [
     name: '花蕊',
     avatar: 'memberavatar/huarui.jpg',
     description: '完蛋！我被代码包围了',
-    blogUrl: 'https://54huarui.github.io/',
+    blogUrl: 'https://huarui.blog/',
     grade: '2023级',
   },
   {

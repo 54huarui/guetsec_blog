@@ -14,21 +14,19 @@ export default function Hello() {
                     justifyContent: 'center',
                     alignItems: 'center',
                     textAlign: 'center',
-                }}
-            >
+                }}>
                 <table>
                     <tr>
                         <td rowspan="1">年份</td>
                         <td>赛事</td>
                         <td>名次</td>
                     </tr>
-
+                    
                     <tr>
                         <td rowspan="7">2025年</td>
                         <td>2025年广西网络与信息安全职业技能竞赛</td>
                         <td>一等奖</td>
                     </tr>
-                    <tr>
                         <td>第22届全国大学生信息安全与对抗技术竞赛——博弈对抗赛</td>
                         <td>一等奖</td>
                     </tr>
@@ -55,6 +53,8 @@ export default function Hello() {
 
                     <tr>
                         <td rowspan="10">2024年</td>
+                    </tr>
+                    <tr>
                         <td>第21届全国大学生信息安全与对抗技术竞赛</td>
                         <td>一等奖</td>
                     </tr>
@@ -90,9 +90,12 @@ export default function Hello() {
                         <td>第三届工控安全技能挑战赛</td>
                         <td>一等奖、二等奖、优秀奖</td>
                     </tr>
+                    
 
                     <tr>
                         <td rowspan="6">2023年</td>
+                    </tr>
+                    <tr>
                         <td>第十六届全国大学生信息安全竞赛-创新实践能力赛-全国总决赛</td>
                         <td>三等奖</td>
                     </tr>
@@ -115,6 +118,8 @@ export default function Hello() {
 
                     <tr>
                         <td rowspan="6">2022年</td>
+                    </tr>
+                    <tr>
                         <td>2022年首届广西大学生“英招杯”网络安全技能大赛</td>
                         <td>冠军、一等奖、二等奖</td>
                     </tr>
@@ -181,6 +186,10 @@ export default function Hello() {
                         <td>6th</td>
                     </tr>
 
+
+
+                    
+
                     <tr>
                         <td rowspan="5">2020年</td>
                         <td>2020第十三届全国大学生信息安全竞赛（实践赛）</td>
@@ -242,11 +251,11 @@ export default function Hello() {
                         <td>“平衡信息杯”第二届南宁市网络安全攻防技术大赛决赛</td>
                         <td>二等奖</td>
                     </tr>
-
+                    
                     <tr>
                         <td rowspan="3">2016年</td>
-                        <td>“安恒杯”首届南宁市网络安全攻防技术大赛决赛</td>
-                        <td>一等奖</td>
+                        <td>“安恒杯”首届南宁市网络安全攻防技术大赛决赛 </td>
+                        <td> 一等奖</td>
                     </tr>
                     <tr>
                         <td>第13届（2016）信息安全与对抗技术竞赛分组对抗赛</td>

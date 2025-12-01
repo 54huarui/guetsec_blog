@@ -23,7 +23,14 @@ export default function Hello() {
                     </tr>
                     
                     <tr>
-                        <td rowspan="5">2025年</td>
+                        <td rowspan="7">2025年</td>
+                        <td>2025年广西网络与信息安全职业技能竞赛</td>
+                        <td>一等奖</td>
+                    <tr>
+                        <td>第22届全国大学生信息安全与对抗技术竞赛——博弈对抗赛</td>
+                        <td>一等奖</td>
+                    </tr>
+                    <tr>
                         <td>第22届全国大学生信息安全与对抗技术竞赛</td>
                         <td>一等奖</td>
                     </tr>

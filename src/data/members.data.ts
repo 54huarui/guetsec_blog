@@ -180,7 +180,7 @@ const members: Member[] = [
     name: '6个鸡蛋',
     avatar: 'memberavatar/6gjd.jpg',
     description: 'web、渗透',
-    blogUrl: 'https://bdsmjj.github.io/',
+    blogUrl: 'https://guetsec.cn/',
     grade: '2022级',
   },
   {
@@ -194,7 +194,7 @@ const members: Member[] = [
     name: 'Clxhzg',
     avatar: 'memberavatar/Clxhzg.jpg',
     description: 'pwn、二进制',
-    blogUrl: 'https://blog.csdn.net/2301_79326813?type=blog',
+    blogUrl: 'https://guetsec.cn/',
     grade: '2023级',
   },
   {
